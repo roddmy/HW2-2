@@ -1,0 +1,45 @@
+{
+  "title": "Тест № 3 Английский: Формы глагола to be",
+  "questions": [
+    {
+      "id": "question-1",
+      "question": "Where ... you from?",
+      "choices": {
+        "v1": "am",
+        "v2": "is",
+        "v3": "are"
+    },
+      "correct": "v3"
+    },
+    {
+      "id": "question-2",
+      "question": "How old ... you?",
+      "choices": {
+        "v1": "am",
+        "v2": "is",
+        "v3": "are"
+    },
+      "correct": "v3"
+    },
+    {
+      "id": "question-3",
+      "question": "How old ... your brother?",
+      "choices": {
+        "v1": "am",
+        "v2": "is",
+        "v3": "are"
+    },
+      "correct": "v2"
+    },
+    {
+      "id": "question-4",
+      "question": "... your father a teacher? - No, he ... a doctor.",
+      "choices": {
+        "v1": "am",
+        "v2": "is",
+        "v3": "are"
+    },
+      "correct": "v2"
+    }
+  ]
+}
